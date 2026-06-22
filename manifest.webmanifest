@@ -1,0 +1,10 @@
+{
+  "name": "oriz-gold-silver-rates-api",
+  "short_name": "gold-silver-rates",
+  "description": "Daily city-wise gold and silver retail rates for India.",
+  "start_url": "/",
+  "display": "minimal-ui",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "icons": []
+}

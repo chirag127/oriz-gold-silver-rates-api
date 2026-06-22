@@ -1,0 +1,16 @@
+{
+  "date": "2026-06-22",
+  "source": "placeholder",
+  "currency": "INR",
+  "unit": "gram",
+  "gold_24k": {
+    "mumbai": 0,
+    "delhi": 0,
+    "bengaluru": 0
+  },
+  "silver": {
+    "mumbai": 0,
+    "delhi": 0,
+    "bengaluru": 0
+  }
+}
